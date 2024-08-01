@@ -193,10 +193,8 @@ params:
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com
-      # Icons are from Font Awesome
       icon: github
     - link: https://wx.qq.com
-      # Icons are from Font Awesome
       icon: weixin
     # - link: https://dribbble.com/#
     #   icon: dribbble
