@@ -1,4 +1,4 @@
-baseURL: http://tianxin.tech/
+baseURL: https://tianxin.tech/
 languageCode: en-us
 title: 甜心科技
 
@@ -63,12 +63,12 @@ params:
   navbar:
   - title: 产品
     sublinks:
-    - title: 甜心记单词
-      url: /
-    - title: 甜心记账
-      url: /
-    - title: 甜心爱运动
-      url: /
+    - title: 语听
+      url: /app/yuting
+    # - title: 甜心记账
+    #   url: /
+    # - title: 甜心爱运动
+    #   url: /
   - title: 文档 
     sublinks:
     - title: 快速开始
@@ -208,16 +208,12 @@ params:
       column1:
         title: "产品"
         links:
-        - text: 甜心记单词
-          link: /
-        - text: 甜心记账
-          link: /
-        - text: 甜心爱运动
-          link: /
+        - text: 语听
+          link: /app/yuting
         # - text: Our roadmap
         #   link: /
         # - text: AGB
-          link: /agb
+          # link: /agb
       column2:
         title: "文档"
         links:
